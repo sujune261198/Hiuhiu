@@ -1,0 +1,9 @@
+{
+  "staffs": [
+    {"name": "Toàn", "id": 950, "ip": "104.28.222.44", "device": "iPhone 15"}
+  ],
+  "locs": [
+    {"name": "Megaads - 6 Le Van Thiem", "lat": 20.999502, "lng": 105.802828, "owner": "all"},
+    {"name": "Công ty TNHH Đầu tư Du lịch Thương mại Việt Dũng, Thôn Chiến, Đức Thượng, Hoài Đức, Hà Nội", "lat": 20.9452065, "lng": 105.7577384, "owner": "all"}
+  ]
+}
